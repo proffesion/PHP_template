@@ -1,4 +1,0 @@
-forms label
-
-login redirect
-    when you return from the cookie the function in init --> send you on the php file automaticaly
